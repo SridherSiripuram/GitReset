@@ -1,7 +1,9 @@
-Function1 - I have added a function1
+Function1 - I have added very very important function1
+
 Function2 - I have added a function2
 
 Function6 - I have added a function6
 Function7 - I have added a function7
 
 Added a chart function
+added a logout function
