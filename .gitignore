@@ -6,3 +6,4 @@ assets/videos/
 !app.js
 *.log
 *.php
+*.java
