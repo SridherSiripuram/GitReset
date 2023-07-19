@@ -1,1 +1,5 @@
- 
+#This is comment line
+*.js
+node_modules/
+assets/videos/
+*.mp4
