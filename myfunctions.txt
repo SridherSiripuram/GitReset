@@ -11,3 +11,5 @@ added a logout function
 Added a function for fast forward
 
 Added a function for no fast forward
+
+Added a funciton for fast forward only in master branch
