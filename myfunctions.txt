@@ -9,3 +9,5 @@ Added a chart function
 added a logout function
 
 Added a function for fast forward
+
+Added a function for no fast forward
