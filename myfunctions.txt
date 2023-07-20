@@ -7,3 +7,5 @@ Function7 - I have added a function7
 
 Added a chart function
 added a logout function
+
+Added a function for fast forward
